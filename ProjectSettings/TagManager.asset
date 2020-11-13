@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - PickUp
+  - Water
+  - EndZone
   layers:
   - Default
   - TransparentFX
